@@ -3,10 +3,10 @@ import type { CSSProperties } from 'react';
 import { HeartIcon, SparkleIcon } from './Icons';
 
 const SURPRISE_MESSAGE = [
-  'ırmagım hayatımda oldugun için o kadar şanslıyım ki ne zaman ihtiyacım olsa yanımda olacagını bildigim ve en saçma anlarda bile güldügüm o kız kardeşim',
-  'seninle yaptıgım kücük bir an bile benim için cok özel hepsi kalbimde biriktirdigim güzel anılar arasında bazen agladıgımız anlar bazende kahkahalarla dolu gülüşmelerimiz ve en önemlisi de tüm yaşadıgımız o kötü anlar hatta bazenleri sessizce birbirimizin yanında duruşu bile her şey benim için o kadar özel ki',
-  'buraya sıgdıramayacagım kadar cok seviyorum seni mutlu olman için her şeyi yapacagımı ve her kararında yanında duracagımı asla unutma ayy iyili dogdun bitanem bitanemmm',
-  'iyiki varsın umarım hep beraber oluruz ve olcaz da çünkü ben bundan cok eminim seni cookkk seviyorum sistaam tekrardan iyiki dogdun',
+  'irmagım hayatımda olduğun için o kadar şanslıyım ki ne zaman ihtiyacım olsa yanımda olacağını bildiğim ve en saçma anlarda bile güldüğüm o kız kardesim..',
+  'seninle yaptığım küçük bir an bile benim için çok özel hepsi kalbimde biriktirdiğim en güzel anılar arasında bazen ağladığımız anlar bazen de kahkahalarla dolu gülüşmelerimiz ve en önemlisi de tüm yaşadığımız o kötü anlar..',
+  'hatta bazenleri sessizce bir birimizin yanında duruşumuz bile her şey benim için o kadar özel ki.. buraya sığdıramayacagım kadar cok seviyorum seni mutlu olman için her şeyi yapacağımı ve her kararında yanında duracağımı asla unutma.',
+  'ayy iyiki doğdun bitanemmm iyiki varsın umarım hep beraber oluruz ve olcaz da çünkü ben bundan cok eminim seni cokkk seviyorum sistaamm tekrardan iyiki doğdun..',
 ] as const;
 
 function CornerFlourish({ className }: { className: string }) {
