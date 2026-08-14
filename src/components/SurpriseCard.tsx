@@ -5,7 +5,7 @@ import { HeartIcon, SparkleIcon } from './Icons';
 const SURPRISE_MESSAGE = [
   'irmagım hayatımda olduğun için o kadar şanslıyım ki ne zaman ihtiyacım olsa yanımda olacağını bildiğim ve en saçma anlarda bile güldüğüm o kız kardesim..',
   'seninle yaptığım küçük bir an bile benim için çok özel hepsi kalbimde biriktirdiğim en güzel anılar arasında bazen ağladığımız anlar bazen de kahkahalarla dolu gülüşmelerimiz ve en önemlisi de tüm yaşadığımız o kötü anlar..',
-  'hatta bazenleri sessizce bir birimizin yanında duruşumuz bile her şey benim için o kadar özel ki.. buraya sığdıramayacagım kadar cok seviyorum seni mutlu olman için her şeyi yapacağımı ve her kararında yanında duracağımı asla unutma.',
+  'hatta bazenleri sessizce bir birimizin yanında duruşumuz bile her şey benim için o kadar özel ki.. buraya sığdıramayacagım kadar cok  seviyorum seni mutlu olman için her şeyi yapacağımı ve her kararında yanında duracağımı asla unutma.',
   'ayy iyiki doğdun bitanemmm iyiki varsın umarım hep beraber oluruz ve olcaz da çünkü ben bundan cok eminim seni cokkk seviyorum sistaamm tekrardan iyiki doğdun..',
 ] as const;
 
